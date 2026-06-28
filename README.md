@@ -1,6 +1,6 @@
 
 Readme · MD
-# Hi, I'm Khanh Linh Dang 👋
+# Hi, I'm Linh Dang
  
 **Full-Stack Developer & Undergraduate Researcher** at UMass Amherst  
 Building web applications and conducting research at the intersection of ML, computer vision, and wireless systems.
