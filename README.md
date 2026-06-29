@@ -49,7 +49,7 @@ Computer Vision · Deep Learning · YOLOv8 · Object Tracking · Wireless Sensin
  
 | Project | Description | Stack |
 |---|---|---|
-| [ShareBooth.fun](https://sharebooth.fun) | Collaborative web photobooth — 107 users in first month | Node.js, Express, Sharp, AWS |
+| [ShareBooth.fun](https://sharebooth.fun) | Collaborative web photobooth| Node.js, Express, Sharp, AWS |
 | [OnePen](https://github.com/linhdangkhanh/OnePen-showcase) | Ethical AI text generation web app | Python, JS, ML |
 | [Pixel Chess](https://github.com/linhdangkhanh/Pixel-chess) | Custom chess game with illustrated pieces | HTML, CSS, JavaScript |
 | Staff Tracking System | CV system using YOLOv8 + ByteTrack + face recognition | Python, Deep Learning |
