@@ -59,7 +59,7 @@ Computer Vision · Deep Learning · YOLOv8 · Object Tracking · Wireless Sensin
  
 ## 📫 Get in Touch
  
-- 📧 khadang@umass.edu
+- 📧 dangkhanhlinh140107@gmail.com
 - 💼 [LinkedIn](https://linkedin.com/in/linh-dang-khanh-3b4821379)
 ---
  
