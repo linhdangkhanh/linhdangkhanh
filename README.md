@@ -2,10 +2,11 @@
 Readme · MD
 # Hi, I'm Linh Dang
 
- 
-## Computer Science & Applied Mathematics Student @ UMass Amherst 
+**Computer Science & Applied Mathematics Student @ UMass Amherst**
 
-Machine Learning • Computer Vision • Wireless Sensing
+**Machine Learning • Computer Vision • Wireless Sensing**
+
+
 Building web applications and conducting research at the intersection of ML, computer vision, and wireless systems.
  
 📍 Amherst, MA &nbsp;|&nbsp; 🎓 B.S. Computer Science & Applied Mathematics &nbsp;|&nbsp; 💼 [LinkedIn](https://linkedin.com/in/linh-dang-khanh-3b4821379)
